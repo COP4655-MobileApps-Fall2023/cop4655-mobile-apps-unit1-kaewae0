@@ -1,43 +1,37 @@
 # cop4655-mobile-apps-unit1-kaewae0
 cop4655-mobile-apps-unit1-kaewae0 created by GitHub Classroom
-# Project 1 - *My Story*
+# Project 2 - *Flixster Part 1*
 
 Submitted by: **Kaela Kent**
 
-**My Story** is an app that introduces yourself and things about you ... [TODO] 
+Flixster is a movie browsing app that shows a collection of movies with a detailed description for each movie 
 
-Time spent: **10* hours spent in total
+Time spent: 12 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [x] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
- 
-- [x] Users are able to see at least 3 context items
-- [x] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
+- [x] Your app should work for any screen size and orientation using AutoLayout constraints
+- [x] Dispays at least 5 different movies in a table view
+- [x] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
-- [x] Improve and customize the user interface through styling and coloring
-- [ ] Allow users to scroll when context items are off-screen (table view implemention)
+- [ ] Unique UI changes, such as background, font/color changes, etc.
+- [ ] User implements a collection view
+- [ ] User implemenets tab bar controller with at least two screens
 
 The following **additional** features are implemented:
 
-- [x] List anything else that you can get done to improve the app functionality!
-work on constraints 
-## Video Walkthrough 
-
-https://media.discordapp.net/attachments/1029880989733892156/1148022610530156654/vid.mov
-
+- [ ] List anything else that you can get done to improve the app functionality!
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
-Lots of errors with buttons in the detailViewController code and attempts setting constraints was a headache 
+Auto-layout issues
 ## License
 
     Copyright [yyyy] [name of copyright owner]
